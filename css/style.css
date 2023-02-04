@@ -348,3 +348,13 @@ body.content ul ul{
 .chat .buttons{
   margin: 0 3px 0 3px;
 }
+
+.error_page{
+  text-align: center;
+  padding: 8rem;
+}
+
+.error_page h1{
+  font-size: 8rem;
+  color: gray;
+}
